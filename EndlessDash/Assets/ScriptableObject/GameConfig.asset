@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba1cca7982635944888eb0a1596b99ab, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  NumRoads: 10
+  RoadGap: 56
+  RoadResetRate: 0.25
+  CoinInitZ: 50
+  NumCoins: 150
+  CoinGap: 7
+  CoinResetRate: 0.2
+  ObstacleInitZ: 150
+  NumObstacles: 15
+  ObstaclesGap: 60
+  ObstaclesResetRate: 0.2
